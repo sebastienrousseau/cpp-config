@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cpp-config</title>
+  <link href="https://sebastienrousseau.com/cpp-config/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sebastienrousseau.com/cpp-config"/>
+  <id>https://sebastienrousseau.com/cpp-config</id>
+  <updated></updated>
+  <entry>
+    <title>Installation — @sebastienrousseau/cpp-config</title>
+    <link href="https://sebastienrousseau.com/cpp-config/installation/"/>
+    <id>https://sebastienrousseau.com/cpp-config/installation/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to install and set up @sebastienrousseau/cpp-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Model Context Protocol (MCP) — @sebastienrousseau/cpp-config</title>
+    <link href="https://sebastienrousseau.com/cpp-config/mcp/"/>
+    <id>https://sebastienrousseau.com/cpp-config/mcp/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Model Context Protocol configuration for @sebastienrousseau/cpp-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Reference — @sebastienrousseau/cpp-config</title>
+    <link href="https://sebastienrousseau.com/cpp-config/reference/"/>
+    <id>https://sebastienrousseau.com/cpp-config/reference/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Reference specifications and options for @sebastienrousseau/cpp-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Usage — @sebastienrousseau/cpp-config</title>
+    <link href="https://sebastienrousseau.com/cpp-config/usage/"/>
+    <id>https://sebastienrousseau.com/cpp-config/usage/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to use and configure @sebastienrousseau/cpp-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+</feed>

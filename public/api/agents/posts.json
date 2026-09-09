@@ -1,0 +1,38 @@
+[
+  {
+    "date": "",
+    "description": "How to install and set up @sebastienrousseau/cpp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Installation — @sebastienrousseau/cpp-config",
+    "url": "https://sebastienrousseau.com/cpp-config/installation/",
+    "wordCount": 45
+  },
+  {
+    "date": "",
+    "description": "Model Context Protocol configuration for @sebastienrousseau/cpp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Model Context Protocol (MCP) — @sebastienrousseau/cpp-config",
+    "url": "https://sebastienrousseau.com/cpp-config/mcp/",
+    "wordCount": 15
+  },
+  {
+    "date": "",
+    "description": "Reference specifications and options for @sebastienrousseau/cpp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Reference — @sebastienrousseau/cpp-config",
+    "url": "https://sebastienrousseau.com/cpp-config/reference/",
+    "wordCount": 30
+  },
+  {
+    "date": "",
+    "description": "How to use and configure @sebastienrousseau/cpp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Usage — @sebastienrousseau/cpp-config",
+    "url": "https://sebastienrousseau.com/cpp-config/usage/",
+    "wordCount": 30
+  }
+]
