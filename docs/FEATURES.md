@@ -20,10 +20,13 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .clang-format
+
 Standardized C++23 formatting preset with 4 spaces, 100 column limit, and modern bracket wrapping. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. .clang-tidy
+
 Hardened clang-tidy checks covering cppcoreguidelines, modernize, bugprone, and performance. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 3. cmake-format.py
+
 Deterministic CMake script formatting for modern target-based build configurations. Designed to guarantee deterministic behavior across all development and continuous integration environments.

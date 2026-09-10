@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable C++ configuration standards providing modern C++23 clang-format, clang-tidy, and cmake-format rules.
 
 ---
@@ -22,16 +23,19 @@ Shareable C++ configuration standards providing modern C++23 clang-format, clang
 ## Feature & Property Reference
 
 ### 1. .clang-format
+
 - **Description**: Standardized C++23 formatting preset with 4 spaces, 100 column limit, and modern bracket wrapping.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. .clang-tidy
+
 - **Description**: Hardened clang-tidy checks covering cppcoreguidelines, modernize, bugprone, and performance.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 3. cmake-format.py
+
 - **Description**: Deterministic CMake script formatting for modern target-based build configurations.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
