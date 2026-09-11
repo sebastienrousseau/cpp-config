@@ -1,0 +1,10 @@
+index.js usr/share/nodejs/@sebastienrousseau/cpp-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/cpp-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/cpp-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/cpp-config/
+.clang-format usr/share/nodejs/@sebastienrousseau/cpp-config/
+.clang-tidy usr/share/nodejs/@sebastienrousseau/cpp-config/
+cmake-format.py usr/share/nodejs/@sebastienrousseau/cpp-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/cpp-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/cpp-config/
+package.json usr/share/nodejs/@sebastienrousseau/cpp-config/
