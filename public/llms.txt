@@ -1,5 +1,0 @@
-# cpp-config
-
-> Shareable C++ configuration providing standardized clang-format, clang-tidy, and cmake-format rules adhering to modern 2026 standards.
-
-Language: en-GB
