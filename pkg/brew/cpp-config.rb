@@ -6,7 +6,7 @@
 class CppConfig < Formula
   desc "Shareable C++ configuration providing standardized clang-format, clang-tidy, and cmake-format rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/cpp-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/cpp-config/-/cpp-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/cpp-config/-/cpp-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
